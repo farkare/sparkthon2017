@@ -15,7 +15,8 @@ angular
     'ngResource',
     'ngRoute',
     'ngTouch',
-    'ui.bootstrap'
+    'ui.bootstrap',
+    'jkAngularRatingStars'
   ])
   .config(function ($routeProvider) {
     $routeProvider
